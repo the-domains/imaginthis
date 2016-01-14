@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of ideas to spark the solution of problems for creative minds.]]></description>
         <link>https://thegrid.ai/imaginthis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 17:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 17:26:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/imaginthis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sound Reactive EL Wire Costume]]></title>
+            <description><![CDATA[<article><h1>Sound Reactive EL Wire Costume</h1><p>Bring science fiction to life with a personalized light-up outfit! EL wire is a delightfully futuristic-looking luminescent wire that has the added benefit of staying cool, making it ideal for wearable projects. Combining sensors and a microcontroller with EL wire allow for a wide range of feedback and control options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5474598ff437b275a2537b5bc90cd644e25f5214.jpg"></article>]]></description>
+            <link>https://learn.sparkfun.com/tutorials/sound-reactive-el-wire-costume</link>
+            <guid isPermaLink="false">5218b7c1-45c7-45da-9e36-ef0703cd532c</guid>
+            <pubDate>Thu, 14 Jan 2016 17:26:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LED Throwies]]></title>
             <description><![CDATA[<article><h1>LED Throwies</h1><p>Developed by the Graffiti Research Lab a division of the Eyebeam R&amp;D OpenLab, LED Throwies are an inexpensive way to add color to any ferromagnetic surface in your neighborhood. A Throwie consists of a lithium battery, a 10mm diffused LED and a rare-earth magnet taped together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95537d76c7a10b046437342dd86c05d6d8b732cc.jpg"></article>]]></description>
