@@ -1,0 +1,28 @@
+name: ImaginThis
+favicon: null
+layout_spectrum: 0.1346581638790667
+typography_spectrum: 0.36469009029679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9276176779530942
+  lightness: 0.36132104438729584
+  saturation: 0.5286451333668083
+  rhythmicContrast: 0.953116198303178
+purpose: []
