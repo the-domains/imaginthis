@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.instructables.com/id/LED-Throwies/'
 title: LED Throwies
-datePublished: '2016-01-14T17:15:11.969Z'
-dateModified: '2016-01-14T17:13:01.184Z'
+datePublished: '2016-01-14T17:34:21.035Z'
+dateModified: '2016-01-14T17:11:46.585Z'
 sourcePath: _posts/2016-01-14-led-throwies.md
 published: true
 inFeed: true
